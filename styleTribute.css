@@ -1,0 +1,51 @@
+#main {
+	background-color: #E5E7E9;
+	text-align: center;
+	color: #15599C;
+	font-family: 'Dosis', sans-serif;
+	margin: 0;
+}
+
+h1 {
+	font-size: 4em;
+	margin: 0;
+}
+
+h4{
+	font-size: 1.5em;
+}
+
+h2{
+	text-align: center;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+#img-div {
+  background: white;
+  padding: 5px;
+  margin: auto 10px auto 10px;
+}
+
+p{
+	
+	font-family: 'Dosis', sans-serif;
+}
+
+
+ul {
+  max-width: 550px;
+  margin: 0 auto 30px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
+a{
+	text-decoration: none; /* removing unerline from links */
+	color: maroon;
+}
